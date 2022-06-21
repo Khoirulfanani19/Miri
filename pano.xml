@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" apprev="15998" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbias="0.400" width="1520" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-161.66" fov="100" tilt="4.16" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270" fov="120" tilt="90"/>
+    </view>
+    <userdata description="Candi Miri masih berupa batu lepas yang belum disusun coba, tampak terdapat pula yoni, doorpel, dan umpak. " info="" title="Candi Miri" author="" customnodeid="" longitude="" datetime="28/12/2021 13:44" comment="" tags="Foto_Fix" latitude="" copyright="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" width="180" height="20" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" enabled="0" zoomoutpause="1" zoomfov="20" blendtime="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" contextfullscreen="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+</tour>
